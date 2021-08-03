@@ -442,8 +442,8 @@ h1, h2, h3, h4, h5, h6, p {
 .footer .contenedor .redes-sociales .linkedin {
   color: #0e76a8;
 }
-.footer .contenedor .redes-sociales .instagram {
-  color: #bc2a8d;
+.footer .contenedor .redes-sociales .whatsapp{
+  color: #0acf1b;
 }
 .footer .contenedor .redes-sociales .twitter {
   color: #00acee;
@@ -470,8 +470,8 @@ h1, h2, h3, h4, h5, h6, p {
 .footer .contenedor .redes-sociales .linkedin::before {
   background: #0e76a8;
 }
-.footer .contenedor .redes-sociales .instagram::before {
-  background: #bc2a8d;
+.footer .contenedor .redes-sociales .whatsapp::before {
+  background: #0acf1b;
 }
 .footer .contenedor .redes-sociales .twitter::before {
   background: #00acee;
