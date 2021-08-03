@@ -476,8 +476,8 @@ h1, h2, h3, h4, h5, h6, p {
 .footer .contenedor .redes-sociales .twitter::before {
   background: #00acee;
 }
-.footer .contenedor .redes-sociales .youtube::before {
-  background: #c4302b;
+.footer .contenedor .redes-sociales .behance::before {
+  background: #2b2dc4;
 }
 .footer .contenedor .redes-sociales .github::before {
   background: #333333;
